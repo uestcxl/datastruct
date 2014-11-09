@@ -5,7 +5,7 @@
 >`list.c`:单向链表
 
 ####`nodejs`
->`list.js`:单向链表
+>`list.js`:双向链表
 
 ####`php`
 >`list.php`:单向链表
